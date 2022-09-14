@@ -1,0 +1,32 @@
+.not-1,.not-2{
+    width: 1043px;
+    height: 272px;
+    background: rgba(25, 74, 108, 0.05);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.35);
+    border-radius: 15px;
+    margin-top: 18px;
+}
+.not-2{
+    margin-top: 30px;
+}
+.majorcontainer p{
+    margin-top: 74px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+ .imgbox{
+    width: 365px;
+    height: 208px;
+    border-radius: 15px;
+    margin: 0 645px 32px 33px;
+    padding: 32px 0 0 0;
+}
+.imgbox img{
+    width: 365px;
+    height: 208px;
+    border-radius: 15px;
+}

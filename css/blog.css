@@ -1,0 +1,89 @@
+.slick{
+    width: auto;
+    display: flex;
+    margin-top: 94px;
+}
+.slick .rows{
+    margin-right: 55px;
+}
+.slick .news{
+    width: 230px;
+    height: 259px;
+    background: rgba(25, 74, 108, 0.05);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 0 19px 0 19px;
+}
+.news h1{
+    margin: 28px 0px 20px 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.news p{
+    text-align: left;
+    margin: 0 50px 32px 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+.news input{
+    background: #194A6C;
+    border-radius: 5px;
+    width: 95%;
+    padding: 14px 0 14px 12px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.slick .row-1,.row-2,.row-3{
+    display:flex;
+    margin-bottom: 60px;
+}
+.row-1 div{
+    width: 365px;
+    height: 263px;
+    border-radius: 15px;
+    background: #194A6C;
+}
+.mg-r-40{
+    margin-right:40px ;
+}
+.row-2 div{
+    width: 365px;
+    height: 263px;
+    border-radius: 15px;
+    background: #194A6C;
+}
+.row-3 div{
+    width: 365px;
+    height: 263px;
+    border-radius: 15px;
+    background: #194A6C;
+}
+
+.row-1 div img{
+    height: 168px;
+    width: 365px;
+    border-radius: 15px 15px 0 0;
+}
+.row-1 div p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 18px 79px 29px 29px;
+}
+.majorcontainer{
+    overflow:visible;
+}
